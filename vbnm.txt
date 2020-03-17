@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-xin chào
-=======
 hello
->>>>>>> 22951a0fd4a072f3d3c131dcd6c6e675118ec7e0
